@@ -41,6 +41,7 @@ This allows the frontend to connect to the backend API.
 
 ## 📚 Project Structure
 
+```plaintext
 frontend/
 ├── src/
 │   ├── components/
@@ -50,7 +51,7 @@ frontend/
 ├── public/
 ├── package.json
 └── vite.config.js
-
+```
 ---
 
 ## 🧱 Stack
