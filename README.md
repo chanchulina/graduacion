@@ -10,7 +10,7 @@ This repository is a **monorepo** containing:
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 graduacion/
 ├── backend/                   # Django API
 │   ├── .venv/                # Virtual environment for backend dependencies (do not commit to Git)
@@ -30,7 +30,7 @@ graduacion/
 ├── docker-compose.yml   # (optional)
 ├── Makefile             # (optional)
 └── README.md            # Root project documentation
-
+```
 
 
 ---
