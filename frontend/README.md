@@ -1,9 +1,8 @@
 
 ---
 
-# 🎨 Frontend README (`graduacion/frontend/README.md`)
+# 🎨 Frontend README
 
-```markdown
 # 🎓 Graduacion - Frontend
 
 This folder contains the **React Web Application** for the Graduacion project.
