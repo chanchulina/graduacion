@@ -82,7 +82,7 @@ Tools | uv (Python dependency manager)
 ## ✍️ Authors
 
 - **Maria Ignacia Strobel(https://github.com/chanchulina)** - *Software Engineer* - [Graduacion](https://github.com/chanchulina/Graduacion)
-- **Jose Ignacio Schafer(https://github.com/kadkeno)** - *Tech lead* - [Graduacion](https://github.com/kadkeno/Graduacion)
+- **Jose Ignacio Schafer(https://github.com/Jose-Schafer)** - *Tech lead* - [Graduacion](https://github.com/Jose-Schafer/Graduacion)
 
 ---
 
