@@ -1,7 +1,0 @@
-[project]
-name = "graduacion"
-version = "0.1.0"
-description = "Graduation project as a software developer"
-readme = "README.md"
-requires-python = "3.12"
-dependencies = []
