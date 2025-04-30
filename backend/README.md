@@ -21,7 +21,7 @@ source .venv/bin/activate
 2. Install the project dependencies:
 
 ```bash
-uv sync pyproject.toml
+uv sync
 ```
 3. Apply migrations:
 
